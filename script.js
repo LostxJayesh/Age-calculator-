@@ -6,7 +6,7 @@ document.getElementById('calculateBtn').addEventListener('click', function() {
         let emoji = '';
 
         if (age >= 18) {
-            emoji = '👴';  // Old man emoji
+            emoji = '😎';  // Old man emoji
         } else {
             emoji = '👦';  // Young boy emoji
         }
